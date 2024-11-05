@@ -73,6 +73,9 @@ Models are trained on historical wildfire data considering various environmental
 - **Fire Occurrence**: Probability of fire occurrence
 - **Risk Level**: Overall risk assessment (Low, Medium, High)
 
+## ✅ Deon Checklist
+https://huggingface.co/spaces/ngavu2592/Oct18Ethic 
+
 ## 💡 Technologies Used
 
 - Python 3.10+
@@ -85,7 +88,5 @@ Models are trained on historical wildfire data considering various environmental
 - Seaborn
 
 
-## 📞 Contact
 
-Nga Vu - vuthunga2002@gmail.com
 
